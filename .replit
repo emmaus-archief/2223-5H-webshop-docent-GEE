@@ -1,9 +1,7 @@
-run = ["bash", "start.sh"]
+run = ["bash", "main.sh"]
 
 # The default file opened in the editor.
-entrypoint = "README.md"
-
-hidden=[".config", ".gitpod.yml", ".gitignore","package.json","yarn.lock","LICENSE"]
+entrypoint = "main.sh"
 
 [nix]
-channel = "stable-22_05"
+channel = "stable-22_11"
