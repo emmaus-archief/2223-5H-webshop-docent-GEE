@@ -1,5 +1,5 @@
 # statistics not calculated by github for following directories 
 # (needed because replit bases its auto-detect language from github repo's on these stats)
-web/* linguist-vendored
-db/* linguist-vendored
-api/* linguist-vendored
+web/** linguist-vendored
+db/** linguist-vendored
+api/** linguist-vendored
