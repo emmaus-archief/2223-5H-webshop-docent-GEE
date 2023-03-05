@@ -1,0 +1,4 @@
+# Apply override to all files in the directory
+web/* linguist-vendored
+db/* linguist-vendored
+api/* linguist-vendored
